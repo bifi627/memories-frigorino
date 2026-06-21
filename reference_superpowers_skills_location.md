@@ -10,7 +10,7 @@ metadata:
 The superpowers plugin skills live on disk at:
 `C:\Users\Dennis\.claude\plugins\cache\claude-plugins-official\superpowers\<version>\skills\<skill-name>\SKILL.md`
 
-As of 2026-06-17 the newest version dir is `6.0.2` (older `6.0.0`/`5.1.0` plus a couple of SHA-named dirs also exist; prefer the highest semver one). It is the official `claude-plugins-official` marketplace cache — NOT under `plugins/repos/...` or any `superpowers-marketplace` path (those don't exist here).
+As of 2026-06-21 the newest version dir is `6.0.3` (older `6.0.2`/`6.0.0`/`5.1.0` plus a couple of SHA-named dirs also exist; prefer the highest semver one). It is the official `claude-plugins-official` marketplace cache — NOT under `plugins/repos/...` or any `superpowers-marketplace` path (those don't exist here).
 
 14 flat skills (no nested category folders): brainstorming, dispatching-parallel-agents, executing-plans, finishing-a-development-branch, receiving-code-review, requesting-code-review, subagent-driven-development, systematic-debugging, test-driven-development, using-git-worktrees, using-superpowers, verification-before-completion, writing-plans, writing-skills.
 
